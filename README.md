@@ -1,5 +1,3 @@
-# szzhiyang 的杰作
-
 <br>
 
 ## [Power Keys](https://PowerKeys.GitHub.io)
