@@ -13,9 +13,3 @@
 > Wallpapers with Fluent Design
 
 <br>
-
-## [The Go Blog](https://TheGoBlog.GitHub.io)
-
-> A refined `blog.golang.org` mirror
-
-<br>
